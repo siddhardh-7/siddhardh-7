@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **flutter, cp**
 
-- 📫 How to reach me **siddharhasid35@gmail.com**
+- 📫 How to reach me **siddhardha.darsi@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
