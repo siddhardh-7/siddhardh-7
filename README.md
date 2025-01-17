@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://siddhardh-7.github.io)
+[![MasterHead](https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729)](https://siddhardh-7.github.io)
 <h1 align="center">Hi 👋, I'm Siddhardha</h1>
 <h3 align="center">As a Computer Science student, I find myself drawn to the exciting and rapidly-evolving fields of Flutter development, AI, and ML. With Flutter, I have the ability to create visually stunning and responsive user interfaces for cross-platform mobile apps. Meanwhile, exploring AI and ML allows me to dive deeper into the world of data analysis and intelligent algorithms, pushing the boundaries of what's possible with technology. By combining these two passions, I am constantly challenged and inspired to explore new frontiers and unlock endless possibilities.</h3>
 
